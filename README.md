@@ -4,3 +4,4 @@ Name : Tejaeswar
 project : version control test
 college : ANMK
 course : MCA
+Affilicated to JNUTA  approved by AICTE and UGC
